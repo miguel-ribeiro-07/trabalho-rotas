@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/trabalho-rotas/static/css/main.1ccc22ca.chunk.css",
+    "main.js": "/trabalho-rotas/static/js/main.9f414242.chunk.js",
+    "main.js.map": "/trabalho-rotas/static/js/main.9f414242.chunk.js.map",
+    "runtime-main.js": "/trabalho-rotas/static/js/runtime-main.5bb8e35d.js",
+    "runtime-main.js.map": "/trabalho-rotas/static/js/runtime-main.5bb8e35d.js.map",
+    "static/js/2.fb812af9.chunk.js": "/trabalho-rotas/static/js/2.fb812af9.chunk.js",
+    "static/js/2.fb812af9.chunk.js.map": "/trabalho-rotas/static/js/2.fb812af9.chunk.js.map",
+    "index.html": "/trabalho-rotas/index.html",
+    "static/css/main.1ccc22ca.chunk.css.map": "/trabalho-rotas/static/css/main.1ccc22ca.chunk.css.map",
+    "static/js/2.fb812af9.chunk.js.LICENSE.txt": "/trabalho-rotas/static/js/2.fb812af9.chunk.js.LICENSE.txt",
+    "static/media/ensinosuperior.jpg": "/trabalho-rotas/static/media/ensinosuperior.6c1f729c.jpg",
+    "static/media/especializacao.da0b1ef1.jpg": "/trabalho-rotas/static/media/especializacao.da0b1ef1.jpg",
+    "static/media/fafibe.jpg": "/trabalho-rotas/static/media/fafibe.af0cdb8f.jpg",
+    "static/media/fatec.png": "/trabalho-rotas/static/media/fatec.d22a857a.png",
+    "static/media/matutino.69f02c55.jpg": "/trabalho-rotas/static/media/matutino.69f02c55.jpg",
+    "static/media/noturno.10c7f15d.jpg": "/trabalho-rotas/static/media/noturno.10c7f15d.jpg",
+    "static/media/novotec.d00c1a63.jpg": "/trabalho-rotas/static/media/novotec.d00c1a63.jpg",
+    "static/media/ufscar.png": "/trabalho-rotas/static/media/ufscar.0bf06d58.png",
+    "static/media/unifran.png": "/trabalho-rotas/static/media/unifran.fcf81c5e.png",
+    "static/media/usp.png": "/trabalho-rotas/static/media/usp.f0c6f359.png",
+    "static/media/vespertino.ad593ea1.jpg": "/trabalho-rotas/static/media/vespertino.ad593ea1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb8e35d.js",
+    "static/js/2.fb812af9.chunk.js",
+    "static/css/main.1ccc22ca.chunk.css",
+    "static/js/main.9f414242.chunk.js"
+  ]
+}
