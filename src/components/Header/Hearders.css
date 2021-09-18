@@ -1,0 +1,72 @@
+/*
+    Configuraçoes do componente IndexMenu
+*/
+.menu {
+    height: 9vh;
+    border: 1px solid rgb(25, 37, 61);
+    background-color: rgb(197, 27, 27);
+    padding-bottom: 8px;
+    font-size: 16px;
+    
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+.navMenu ul {
+    list-style: none;
+    text-align: center;
+}
+
+.navMenu ul li {
+    display: inline;
+}
+
+.navMenu ul li a {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 1vh;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.navMenu ul li a:hover {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navMenu .fafibe {
+    color: orange
+}
+
+.navMenu .fatec {
+    color: yellow
+}
+.navMenu .ufscar {
+    color: black
+}
+.navMenu .unifran {
+    color: blue
+}
+.navMenu .usp {
+    color: white
+}
+
+.navMenu .mat {
+    color: greenyellow
+}
+
+.navMenu .vesp {
+    color: orange
+}
+.navMenu .not {
+    color: black
+}
+.navMenu .novotec {
+    color: rgb(34, 60, 206)
+}
+.navMenu .espec {
+    color: purple
+}
+
